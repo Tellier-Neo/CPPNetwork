@@ -1,0 +1,6 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/CPPNetwork/.vs/CPPNetwork
+/CPPNetwork/CPPNetwork/x64/Debug
